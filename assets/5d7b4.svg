@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="132.039" height="31" viewBox="0 0 132.039 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Label background">
+<path d="M7.01927 0H125.019L131.646 20.544C133.313 25.7097 129.461 31 124.033 31H8.00585C2.57802 31 -1.27418 25.7097 0.392177 20.544L7.01927 0Z" fill="url(#paint0_linear_0_85)"/>
+<mask id="stroke0_0_85" fill="white">
+<path d="M7.01927 0H125.019L131.646 20.544C133.313 25.7097 129.461 31 124.033 31H8.00585C2.57802 31 -1.27418 25.7097 0.392177 20.544L7.01927 0Z"/>
+</mask>
+<path d="M7.01927 0H125.019L131.646 20.544C133.313 25.7097 129.461 31 124.033 31H8.00585C2.57802 31 -1.27418 25.7097 0.392177 20.544L7.01927 0Z" stroke-width="3.2" stroke="url(#paint1_linear_0_85)" mask="url(#stroke0_0_85)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_85" x1="80.8257" y1="-15.372" x2="105.713" y2="78.122" gradientUnits="userSpaceOnUse">
+<stop offset="0.205898" stop-color="#16263B" stop-opacity="0"/>
+<stop offset="0.515881" stop-color="#243C57" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#16263B" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_85" x1="124.019" y1="5.625" x2="133.519" y2="40.625" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8BA5C0" stop-opacity="0"/>
+<stop offset="0.487505" stop-color="#8BA5C0" stop-opacity="0.501961"/>
+<stop offset="1" stop-color="#8BA5C0" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

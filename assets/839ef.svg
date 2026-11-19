@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="686.907" height="68.9131" viewBox="0 0 686.907 68.9131" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#229;&#143;&#179;&#228;&#190;&#167;&#228;&#190;&#167;&#228;&#191;&#161;&#230;&#129;&#175;">
+<foreignObject x="-5.43656" y="-5.43656" width="697.78" height="70.2861"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(2.72px);clip-path:url(#bgblur_0_0_811_clip_path);height:100%;width:100%"></div></foreignObject><path id="&#232;&#183;&#175;&#229;&#190;&#132; 33" data-figma-bg-blur-radius="5.43656" d="M663.578 13.8673C655.98 5.06208 644.925 0 633.295 0L0 0V59.413H134.533C145.288 59.413 155.846 56.5218 165.101 51.0421L168.622 48.9573C177.889 43.4708 188.461 40.5794 199.23 40.5864L686.907 40.9007L663.578 13.8673Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#paint0_linear_0_811)"/>
+<path id="&#232;&#183;&#175;&#229;&#190;&#132; 33_2" d="M0 67.4131H133.419C144.175 67.4131 154.733 64.522 163.988 59.0422L167.527 56.9468C176.782 51.4671 187.34 48.5759 198.095 48.5759H668" stroke-width="3" stroke="url(#paint1_linear_0_811)"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_0_811_clip_path" transform="translate(5.43656 5.43656)"><path fill-rule="evenodd" clip-rule="evenodd" d="M663.578 13.8673C655.98 5.06208 644.925 0 633.295 0L0 0V59.413H134.533C145.288 59.413 155.846 56.5218 165.101 51.0421L168.622 48.9573C177.889 43.4708 188.461 40.5794 199.23 40.5864L686.907 40.9007L663.578 13.8673Z"/>
+</clipPath><linearGradient id="paint0_linear_0_811" x1="540.875" y1="52.6605" x2="540.875" y2="-10.7725" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0E5FFF" stop-opacity="0.01"/>
+<stop offset="0.556125" stop-color="#0E5FFF" stop-opacity="0.385916"/>
+<stop offset="1" stop-color="#007AFF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_811" x1="24" y1="49.9945" x2="520.906" y2="49.9945" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0E5FFF" stop-opacity="0.01"/>
+<stop offset="0.216078" stop-color="#0E5FFF"/>
+<stop offset="0.37037" stop-color="#31C2FF"/>
+<stop offset="0.604246" stop-color="#0E5FFF"/>
+<stop offset="1" stop-color="#0E5FFF" stop-opacity="0.01"/>
+</linearGradient>
+</defs>
+</svg>

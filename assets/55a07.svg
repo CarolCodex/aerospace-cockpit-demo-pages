@@ -1,0 +1,26 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="132.039" height="31" viewBox="0 0 132.039 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Label background">
+<path d="M7.01927 0H125.019L131.646 20.544C133.313 25.7097 129.461 31 124.033 31H8.00585C2.57802 31 -1.27418 25.7097 0.392177 20.544L7.01927 0Z" fill="url(#paint0_linear_0_84)"/>
+<mask id="stroke0_0_84" fill="white">
+<path d="M7.01927 0H125.019L131.646 20.544C133.313 25.7097 129.461 31 124.033 31H8.00585C2.57802 31 -1.27418 25.7097 0.392177 20.544L7.01927 0Z"/>
+</mask>
+<path d="M7.01927 0H125.019L131.646 20.544C133.313 25.7097 129.461 31 124.033 31H8.00585C2.57802 31 -1.27418 25.7097 0.392177 20.544L7.01927 0Z" stroke-width="3.2" stroke="url(#paint1_linear_0_84)" mask="url(#stroke0_0_84)"/>
+<path d="M7.01927 0H125.019L131.646 20.544C133.313 25.7097 129.461 31 124.033 31H8.00585C2.57802 31 -1.27418 25.7097 0.392177 20.544L7.01927 0Z" stroke-width="3.2" stroke="url(#paint2_linear_0_84)" mask="url(#stroke0_0_84)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_84" x1="112.519" y1="1.90678e-05" x2="119.519" y2="42.5" gradientUnits="userSpaceOnUse">
+<stop offset="0.158646" stop-color="#0E5FFF" stop-opacity="0.01"/>
+<stop offset="0.691415" stop-color="#0E5FFF" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#0E5FFF" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_84" x1="121.519" y1="1" x2="137.127" y2="26.3083" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00D5FF" stop-opacity="0.01"/>
+<stop offset="0.841286" stop-color="#00BFFF" stop-opacity="0.55"/>
+<stop offset="1" stop-color="#00AAFF" stop-opacity="0.55"/>
+</linearGradient>
+<linearGradient id="paint2_linear_0_84" x1="135.019" y1="42" x2="116.019" y2="6" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D2E2FF"/>
+<stop offset="1" stop-color="#D2E2FF" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
